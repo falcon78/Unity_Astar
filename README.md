@@ -1,3 +1,4 @@
 # UNITYでA*アルゴリズムを実装しました。(C#)
 
-![ASTAR](./astar.gif)
+
+<img src="./astar.gif" alt="drawing" width="800"/>
